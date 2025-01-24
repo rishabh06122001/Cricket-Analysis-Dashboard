@@ -16,4 +16,4 @@ Interactive Dashboard: Visualized the processed data using Power BI, providing i
 3) Optimal team selection based on past performance statistics.
 
 ## Screenshots
-![Cricket Dashboard]()
+![Cricket Dashboard](Cricket Analysis Dashboard 1_24_2025 12_48_08 PM.png)
